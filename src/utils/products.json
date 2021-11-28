@@ -1,236 +1,204 @@
 {
-    "shoes": {
+    "harrypotter": {
         "items": [
             {
                 "id": 1,
-                "name": "Sneakerși piele Massimo Dutti",
-                "price": 135,
+                "name": "Harry Potter Si Piatra Filosofala",
+                "price": 35,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/Rz8lVQa.jpg",
-                "size": 45,
-                "colour": "Negru",
-                "material": "Piele",
-                "brand": "Massimo Dutti",
-                "description": "Sneakerși din piele cu talpă inițial albă, din colecția de toamnă-iarnă 2019, Massimo Dutti."
+                "image": "https://images.unsplash.com/photo-1606760956235-b1c1819758a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+                "size": 345,
+                "brand": "J. K. Rowling",
+                "description": "Cartea prezinta povestea unui pusti de 11 ani, Harry Potter, care dupa ce toata viata a fost crescut de unchiul si matusa lui ce il privesc ca pe o ciudatenie, baiatul afla ca are puteri magice. Lumea lui Harry se schimba odata cu primirea unei scrisori in care este acceptat la scoala de farmece si vrajitorii Hogwarts. Baiatul, ce dormea in debaraua de sub scari, reuseste sa isi faca usor prieteni, iar aventura lor incepe cu ajungerea lor la scoala. Ron Wesley si Hermione Granger devin prietenii de nadejde ai micului vrajitor si il vor insoti pe tot parcursul cartii."
             },
             {
                 "id": 2,
-                "name": "Teniși negri Polo Ralph Lauren",
-                "price": 100,
+                "name": "Harry Potter si Ordinul Phoenix",
+                "price": 68,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/Og3Oh24.jpg",
-                "size": 45,
-                "colour": "Negru",
-                "material": "Pânză",
-                "brand": "Polo Ralph Lauren",
-                "description": "Teniși din pânză cu talpă inițial albă, din colecția de primăvară-vară 2019, Fashion Days."
+                "image": "https://images.unsplash.com/photo-1609866138210-84bb689f3c61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=469&q=80",
+                "size": 990,
+                "brand": "J. K. Rowling",
+                "description": "Timpuri întunecate au venit peste Hogwarts. După atacul Dementorilor asupra vărului său Dudley, Harry își dă seama că Voldemort va folosi orice mijloace ca să-l găsească. Sunt mulți cei care nu acceptă că Lordul Întunecat s-a întors, dar Harry nu este singur: un ordin secret se adună în Piața Grimmauld spre a lupta împotriva forțelor întunericului. Harry trebuie să-i dea voie profesorului Snape să-l învețe cum să se protejeze de atacurile sălbatice ale lui Voldemort asupra minții lui. Dar atacurile se întețesc pe zi ce trece, iar Harry e în criză de timp..."
             },
             {
                 "id": 3,
-                "name": "Ghete din piele maro Massimo",
-                "price": 185,
+                "name": "Harry Potter si prizonierul din Azkaban",
+                "price": 48,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/zoqSu87.jpg",
-                "size": 45,
-                "colour": "Maro",
-                "material": "Piele",
-                "brand": "Massimo Dutti",
-                "description": "Ghete maro din piele, din colecția de toamnă-iarnă 2017, Massimo Dutti."
+                "image": "https://images.unsplash.com/photo-1618666012174-83b441c0bc76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGFycnklMjBwb3R0ZXIlMjBib29rfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "size": 464,
+                "brand": "J. K. Rowling",
+                "description": "Când Cavalerobuzul opreşte brusc în faţa lui, răsărind din întuneric, pentru Harry Potter începe un nou an şcolar care nu e nici pe departe unul obişnuit. Sirius Black, criminal în serie şi discipol al Lordului Voldemort, a evadat de la Azkaban, închisoarea vrăjitorilor, şi toată lumea spune că ar fi pe urmele lui Harry. La prima oră de divinaţie, profesoara Trelawney vede în frunzele de ceai din ceaşca lui Harry un semn prevestitor de moarte... Dar mai înfricoşător decât orice e că în jurul şcolii patrulează dementori, care pot sorbi suflete cu Sărutul lor mortal."
             }
         ],
-        "image": "https://i.imgur.com/X0qldXO.jpg",
-        "name": "Încălțăminte",
-        "description": "Ghete, pantofi, sneakerși: finețe garantată!"
+        "image": "https://images.unsplash.com/photo-1598153346810-860daa814c4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+        "name": "Harry Potter",
+        "description": "“Hogwarts va fi mereu aici să-ţi ureze bun-venit.“ J.K. Rowling"
     },
-    "sweaters": {
+    "gameofthrones": {
         "items": [
             {
                 "id": 4,
-                "name": "Pulovăr finuț cu guler",
-                "price": 95,
+                "name": "A Knight of the Seven Kingdoms",
+                "price": 52,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/6afzuEr.jpg",
-                "size": "L",
-                "colour": "Maro",
-                "material": "Cașmir",
-                "brand": "DS Damat",
-                "description": "Pulovăr din cașmir, slim fit, colecția toamnă-iarnă 2019, DS Damat."
+                "image": "https://i.imgur.com/47s6MYi.jpeg",
+                "size": 368,
+                "brand": "GEORGE R.R. MARTIN",
+                "description": "A young, naïve but courageous hedge knight, Ser Duncan the Tall towers above his rivals – in stature if not experience. Tagging along with him is his diminutive squire, a boy called Egg – whose true identity must be hidden from all he and Dunk encounter: for in reality he is Aegon Targaryen, and one day he will be king. Improbable heroes though they be, great destinies lie ahead for Dunk and Egg; as do powerful foes, royal intrigue, and outrageous exploits."
             },
             {
                 "id": 5,
-                "name": "Pulovăr multicolor",
-                "price": 105,
+                "name": "A Clash of Kings",
+                "price": 54,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/s0VytKc.jpg",
-                "size": "L",
-                "colour": "Multicolor",
-                "material": "Bumbac",
-                "brand": "McNeal",
-                "description": "Pulovăr multicolor, colecția toamnă-iarnă 209, McNeal."
+                "image": "https://images.unsplash.com/photo-1600081523138-0bae23488dea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHN3b3JkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "size": 752,
+                "brand": "GEORGE R.R. MARTIN",
+                "description": "From the ancient citadel of Dragonstone to the forbidding lands of Winterfell, chaos reigns as pretenders to the Iron Throne of the Seven Kingdoms stake their claims through tempest, turmoil and war. As a prophecy of doom cuts across the sky - a comet the colour of blood and flame - five factions struggle for control of a divided land. Brother plots against brother and the dead rise to walk in the night."
             },
             {
                 "id": 6,
-                "name": "Pulovăr călduros și frumos",
-                "price": 165,
+                "name": "A Dance With Dragons",
+                "price": 47,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/BWGgzlK.jpg",
-                "size": "L",
-                "colour": "Multicolor",
-                "material": "Lână",
-                "brand": "SELECTED",
-                "description": "Pulovăr din lână, în carouri, colecția toamnă-iarnă 2019, SELECTED."
+                "image": "https://images.unsplash.com/photo-1616262373426-18bfa28bafab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZHJhZ29uc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                "size": 592,
+                "brand": "GEORGE R.R. MARTIN",
+                "description": "In King’s Landing the Queen Regent, Cersei Lannister, awaits trial, abandoned by all those she trusted; while in the eastern city of Yunkai her brother Tyrion has been sold as a slave. From the Wall, having left his wife and the Red Priestess Melisandre under the protection of Jon Snow, Stannis Baratheon marches south to confront the Boltons at Winterfell. But beyond the Wall the wildling armies are massing for an assault…"
             },
             {
                 "id": 7,
-                "name": "Pulovăr din lână",
-                "price": 160,
+                "name": "Fire & Blood",
+                "price": 52,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/dTcMbHT.jpg",
-                "size": "L",
-                "colour": "Crem",
-                "material": "Lână",
-                "brand": "Massimo Dutti",
-                "description": "Pulovăr din lână cu model, colecția toamnă-iarnă 2019, Massimo Dutti."
+                "image": "https://images.unsplash.com/photo-1497906539264-eb74442e37a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZHJhZ29uc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                "size": 752,
+                "brand": "GEORGE R.R. MARTIN",
+                "description": "Centuries before the events of A Game of Thrones, House Targaryen—the only family of dragonlords to survive the Doom of Valyria—took up residence on Dragonstone. Fire & Blood begins their tale with the legendary Aegon the Conqueror, creator of the Iron Throne, and goes on to recount the generations of Targaryens who fought to hold that iconic seat, all the way up to the civil war that nearly tore their dynasty apart."
             }
         ],
-        "image": "https://i.imgur.com/SZU7liE.jpg",
-        "name": "Pulovere",
-        "description": "Pulovărașe elegănțele, slim, clasă superioară."
+        "image": "https://images.unsplash.com/photo-1515255384510-23e8b6a6ca3c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+        "name": "Game of Thrones",
+        "description": "A Song of Ice and Fire"
     },
-    "pants": {
+    "lordoftherings": {
         "items": [
             {
                 "id": 8,
-                "name": "Blugi bleumarin slim fit",
-                "price": 35,
+                "name": "The Return of the King",
+                "price": 44,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/VhpATO8.jpg",
-                "size": "34",
-                "colour": "Bleumarin închis",
-                "material": "Blug",
-                "brand": "DS Damat",
-                "description": "Blugi bleumarin, slim fit, colecția primăvară-vară 2019, DS Damat."
+                "image": "https://images.unsplash.com/photo-1535666669445-e8c15cd2e7d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bG9yZCUyMG9mJTIwdGhlJTIwcmluZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+                "size": 624,    
+                "brand": "J.R.R. TOLKIEN",
+                "description": "Concluding the story begun in The Hobbit, this is the final part of Tolkien's epic masterpiece, The Lord of the Rings, featuring an exclusive cover image from the film, the definitive text, and a detailed map of Middle-earth.The armies of the Dark Lord Sauron are massing as his evil shadow spreads ever wider. Men, Dwarves, Elves and Ents unite forces to do battle agains the Dark. Meanwhile, Frodo and Sam struggle further into Mordor in their heroic quest to destroy the One Ring.The devastating conclusion of J.R.R."
             },
             {
                 "id": 9,
-                "name": "Blugi negri slim fit",
-                "price": 40,
+                "name": "The Hobbit",
+                "price": 49,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/weiI07t.jpg",
-                "size": "34",
-                "colour": "Negru-gri",
-                "material": "Blug",
-                "brand": "DS Damat",
-                "description": "Blugi negri, slim fit, colecția toamnă-iarnă 2019, DS Damat."
+                "image": "https://images.unsplash.com/photo-1600071075057-fc3fb218e6b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGxvcmQlMjBvZiUyMHRoZSUyMHJpbmdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "size": 285,
+                "brand": "J.R.R. TOLKIEN",
+                "description": "Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely travelling further than the pantry of his hobbit-hole in Bag End. But his contentment is disturbed when the wizard, Gandalf, and a company of thirteen dwarves arrive on his doorstep one day to whisk him away on an unexpected journey ‘there and back again’. They have a plot to raid the treasure hoard of Smaug the Magnificent, a large and very dangerous dragon…"
             }
         ],
-        "image": "https://i.imgur.com/srQCDRN.jpg",
-        "name": "Pantaloni/blugi",
-        "description": "Jeanși și pantaloni pentru baieții care și-o ard patroni!"
+        "image": "https://images.unsplash.com/photo-1570610155223-66279ba81b41?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bG9yZCUyMG9mJTIwdGhlJTIwcmluZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Lord of the Rings",
+        "description": "It's all about the ring!"
     },
-    "jackets": {
+    "thewitcher": {
         "items": [
             {
                 "id": 10,
-                "name": "Haină lungă din lână virgină",
-                "price": 210,
+                "name": "The Last Wish",
+                "price": 58,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/IXrZitQ.jpg",
-                "size": "L",
-                "colour": "Gri închis",
-                "material": "Lână virgină",
-                "brand": "Peek and Cloppenburg",
-                "description": "Haină lungă din lână virgină, colecția toamnă-iarnă 2018, Peek and Cloppenburg."
+                "image": "https://images.unsplash.com/photo-1563310978-dd47a28323ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHN3b3JkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "size": 288,
+                "brand": "ANDRZEJ SAPKOWSKI",
+                "description": "Geralt of Rivia is a Witcher, a man whose magic powers and lifelong training have made him a brilliant fighter and a merciless assassin."
             },
             {
                 "id": 11,
-                "name": "Geacă bleumarin cu glugă detașabilă",
-                "price": 250,
+                "name": "The Lady of the Lake",
+                "price": 55,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/eCZd7PU.jpg",
-                "size": "L",
-                "colour": "Bleumarin",
-                "material": "Poliester",
-                "brand": "DS Damat",
-                "description": "Geacă bleumarin cu glugă detașabilă, colecția toamnă-iarnă 2019, DS Damat."
+                "image": "https://images.unsplash.com/photo-1614882914068-3b235f59cb38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHN3b3JkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "size": 544,
+                "brand": "ANDRZEJ SAPKOWSKI",
+                "description": "After walking through a portal in the Tower of the Swallow, thus narrowly escaping death, the Witcher girl, Ciri, finds herself in a completely different world… a world of the Elves. She is trapped with no way out. Time does not seem to exist and there are no obvious borders or portals to cross back into her home world."
             }
         ],
-        "image": "https://i.imgur.com/81I6Oab.jpg",
-        "name": "Geci/Haine",
-        "description": "Confortabile, călduroase și nu arăți ca un cartof!"
+        "image": "https://images.unsplash.com/photo-1622643048696-883eafe4d8dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGhlJTIwd2l0Y2hlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "The Witcher",
+        "description": "People like to invent monsters and monstrosities!"
     },
-    "tshirts": {
+    "twilight": {
         "items": [
             {
                 "id": 12,
-                "name": "Tricou în dungi",
-                "price": 90,
+                "name": "Twilight",
+                "price": 58,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/BWvzCwB.jpg",
-                "size": "L",
-                "colour": "Multicolor",
-                "material": "Bumbac",
-                "brand": "Lacoste",
-                "description": "Tricou în dungi, colecția primăvară-vară 2019, Lacoste."
+                "image": "https://images.unsplash.com/photo-1603636494008-5e3d44449de0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmFtcGlyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                "size": 464,
+                "brand": "STEPHENIE MEYER",
+                "description": "When 17 year old Isabella Swan moves to Forks, Washington to live with her father she expects that her new life will be as dull as the town. But in spite of her awkward manner and low expectations, she finds that her new classmates are drawn to this pale, dark-haired new girl in town. But not, it seems, the Cullen family."
             },
             {
                 "id": 13,
-                "name": "Tricou de ping pong",
-                "price": 110,
+                "name": "New Moon",
+                "price": 62,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/4BbF4TO.jpg",
-                "size": "L",
-                "colour": "Roșu",
-                "material": "Poliester",
-                "brand": "Li Ning",
-                "description": "Tricou de ping pong cu imprimeu cu dragon, purtat de jucatorii naționalei chinei în 2013."
+                "image": "https://images.unsplash.com/photo-1612721270520-ce6e86ae35b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dmFtcGlyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                "size": 608,
+                "brand": "STEPHENIE MEYER",
+                "description": "It all happened very quickly then. 'No!' Edward roared ...Dazed and disorientated, I looked up from the bright red blood pulsing out of my arm - and into the fevered eyes of the six suddenly ravenous vampires. For Bella Swan, there is one thing more important than life itself: Edward Cullen."
             },
             {
                 "id": 14,
-                "name": "Tricou original BVB cu autograf",
-                "price": 1909,
+                "name": "Eclipse",
+                "price": 54,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/etIsbHV.jpg",
-                "size": "L",
-                "colour": "Galben-Negru",
-                "material": "Poliester",
-                "brand": "Puma",
-                "description": "Tricoul purtat de Borussia Dortmund în sezonul competițional 2018-2019, cu numarul 7 și numele 'SANCHO'. Tricoul este semnat de portarul Borussiei, Roman Burki."
+                "image": "https://images.unsplash.com/photo-1527298233152-3634f67656e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzd8fHZhbXBpcmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+                "size": 672,
+                "brand": "STEPHENIE MEYER",
+                "description": "His kiss frightened me. There was too much tension, too strong an edge to the way his lips crushed mine - like he was afraid we had only so much time left to us. As Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge, Bella once again finds herself surrounded by danger."
             }
         ],
-        "image": "https://i.imgur.com/l27WtFL.jpg",
-        "name": "Tricouri",
-        "description": "Și de băiețeală și de sport."
+        "image": "https://images.unsplash.com/photo-1622081414347-f146776e3dbd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dmFtcGlyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Twilight Saga",
+        "description": "Books about vampires and love"
     },
-    "accesories": {
+    "dune": {
         "items": [
             {
                 "id": 15,
-                "name": "Fular TJ cu două fețe",
-                "price": 85,
+                "name": "Dune",
+                "price": 65,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/rSVUiLO.jpg",
-                "size": "Universal",
-                "colour": "Gri-Bleumarin",
-                "material": "Cașmir",
-                "brand": "Trussardi Jeans",
-                "description": "Fular cu imprimeu, din colecția toamnă-iarnă 2018, Trussardi Jeans."
+                "image": "https://images.unsplash.com/photo-1553983658-0d7afeb5c53f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2FtZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+                "size": 736,
+                "brand": "FRANK HERBERT",
+                "description": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the spice melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for..."
             },
             {
                 "id": 16,
-                "name": "Mănuși din piele",
-                "price": 60,
+                "name": "Dune Messiah",
+                "price": 63,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/LbjGaZ1.jpg",
-                "size": "L",
-                "colour": "Negru",
-                "material": "Piele",
-                "brand": "DS Damat",
-                "description": "Mănuși din piele, cu model, din colecția toamnă-iarnă 2018, DS Damat."
+                "image": "https://images.unsplash.com/photo-1504626113995-a0e5d91f925d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fHNjb3JwaW9uJTIwZGVzZXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "size": 304,
+                "brand": "FRANK HERBERT",
+                "description": "Twelve years after his victory over House Harkonnen, Paul Atreides rules as emperor from the desert planet Arrakis - but his victory has had profound consequences. War has been brought to the entire known universe, and billions have already perished. Despite having become the most powerful emperor known to history, Paul is powerless to bring an end to the fighting."
             }
         ],
-        "image": "https://i.imgur.com/qw3wDj8.jpg",
-        "name": "Accesorii",
-        "description": "Fulare, căciuli, mănuși: nu mai sta pe gânduri, cumpără-le acuși!"
+        "image": "https://images.unsplash.com/photo-1587241432831-4490df069382?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZHVuZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Dune Saga",
+        "description": "Fear is the mind-killer"
     }
 }

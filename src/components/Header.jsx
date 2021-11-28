@@ -9,9 +9,9 @@ import { logoutUser } from '../redux/actions/user';
 function Header(props) {
     return(
         <header className="border-bottom mb-3">
-            <div className="container-fluid container-min-max-width d-flex justify-content-between align-items-center">
+            <div className="header-height container-fluid container-min-max-width d-flex justify-content-between align-items-center">
                 <Link to="/" className="my-3">
-                    <img src={Logo} alt="Sirluggia Shop" className="logo"/>
+                    <img src={Logo} alt="Gabriel's Shop" className="logo"/>
                 </Link>
                 <div>
                     { props.user
