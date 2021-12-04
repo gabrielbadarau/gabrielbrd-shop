@@ -1,0 +1,13 @@
+/* Setam dimensiunea maxima pentru imagine in pagin de cart */
+.favorite-page img {
+    max-height: 100px;
+}
+
+/* Vrem sa schimbam cursorul la hover peste iconita care sterge produsul din cart */
+.favorite-page svg {
+    cursor: pointer;
+}
+
+.trash-can:hover{
+    fill:gray;
+}

@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Logo from '../assets/images/logo.png';
 import { ReactComponent as ShoppingCart } from '../assets/icons/shopping-cart.svg';
+import {ReactComponent as HeartSolid} from '../assets/icons/heart-solid.svg';
 import './Header.css';
 import { connect } from 'react-redux';
 import { logoutUser } from '../redux/actions/user';
@@ -24,9 +25,13 @@ function Header(props) {
                             : <Link to="/login" className="h5 mb-0">Logare</Link>
                         }
                         <div className="d-flex align-items-center">
-                            <Link to="/cart" className="d-flex">
-                                <ShoppingCart className="ml-2"/>
-                                <p className="ml-1 mb-0">{ props.numberOfProducts }</p>
+                            <Link style={{textDecoration:"none"}} to="/cart" className="d-flex">
+                                <ShoppingCart className="icon-header"/>
+                                <p className="icon-number">{ props.numberOfProducts }</p>
+                            </Link>
+                            <Link style={{textDecoration:"none"}} to="/favorite" className="d-flex">
+                                <HeartSolid className="icon-header"/>
+                                <p className="icon-number">{ props.numberOfFavorite }</p>
                             </Link>
                         </div>
                     </div>
@@ -39,6 +44,7 @@ function Header(props) {
 function mapStateToProps(state) {
     return {
         numberOfProducts: state.cart.products.length,
+        numberOfFavorite:state.favorite.products.length,
         user: state.user.data
     }
 }

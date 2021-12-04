@@ -1,4 +1,18 @@
 .product-item img {
-    max-width: 250px;
-    max-height: 250px;
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.favorite-button{
+    width: 25px;
+}
+
+.favorite:hover{
+    fill:red;
+    cursor: pointer;
+}
+
+.favorite:active{
+  transform: translateY(2px);
 }

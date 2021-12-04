@@ -11,3 +11,11 @@ header .logout:hover {
 .header-height {
     height: 100px;
 }
+
+.icon-header{
+    width: 25px;
+    height: auto;
+    padding-bottom: 12px;
+    margin-left:3px;
+    margin-right: 3px;
+}
